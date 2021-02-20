@@ -1,4 +1,4 @@
-package version
+package goversion
 
 // Collection is a type that implements the sort.Interface interface
 // so that versions can be sorted.
